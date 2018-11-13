@@ -22,8 +22,8 @@ import pandas as pd
 import numpy as np
 
 
-        # Reading Data Set and creating Pandas Data Frame
-Data = pd.read_csv('F:/6. EXPLORATION/2. R/GermanCredit.csv')
+# Reading Data Set and creating Pandas Data Frame
+Data = pd.read_csv('..../GermanCredit.csv')
 
 list(Data)
 
